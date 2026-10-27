@@ -10,6 +10,10 @@ A lightweight charting tool for exploring OHLC market data and supporting strate
 - **Multiple Timeframes** — Switch between different timeframes to analyze the market at various levels of detail.
 - **Visual Market Analysis** — Explore historical price data and review potential trading opportunities directly on the chart.
 
-## Screenshot
+## Chart App Screenshot
 
 <img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/caae5195-3214-4071-868d-717ace95e6d3" />
+
+## [5. Situational Analysis](./5.%20Situational%20Analysis/)
+
+[![Situational Analysis Preview](./5.%20Situational%20Analysis/preview.png)](./5.%20Situational%20Analysis/)
